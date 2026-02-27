@@ -29,9 +29,9 @@ height: 650px
 }
 
 body {
-  margin: 0;
-  height: 100vh;
-  background: linear-gradient(135deg, #6a00ff, #ff00c8);
+  ackground: linear-gradient(to bottom, #a8e6cf, #ffffff); /* Gradiente de verde claro para branco */
+    height: 100vh;
+    margin: 0;
 }
 
  body {
@@ -60,3 +60,4 @@ td {
 tr {
     border-bottom: 1px solid #ddd;
 }
+
